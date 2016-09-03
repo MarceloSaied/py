@@ -13,5 +13,8 @@
 # name = input("what is your name?")
 # print (name)
 
-
+name    = "John"       # A string
 print (name.upper())
+print(name.capitalize())
+
+

@@ -1,0 +1,2 @@
+cd c:\Dropbox\shared\central@iaacob\py\python\PyInstaller-3.2
+python pyinstaller.py c:\Dropbox\shared\central@iaacob\py\python\Calculator1\Calculator.py --onefile --icon=C:\Dropbox\shared\central@iaacob\py\python\Calculator1\Calculator.ico

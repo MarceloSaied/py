@@ -5,14 +5,16 @@
             "name": "Python",
             "type": "python",
             "request": "launch",
-            "stopOnEntry": true,
+            "stopOnEntry": false,
             "pythonPath": "${config.python.pythonPath}",
             "program": "${file}",
             "debugOptions": [
                 "WaitOnAbnormalExit",
                 "WaitOnNormalExit",
                 "RedirectOutput"
-            ]
+            ],
+             "editor.rulers": [] ,// Columns at which to show vertical rulers
+              "editor.quickSuggestions": true
         },
         {
             "name": "Python Console App",

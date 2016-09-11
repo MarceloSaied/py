@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1a4d98-916a-4ec8-9f05-bdbe21e4cf73" name="Default" comment="gui calculator">
+    <list default="true" id="2c1a4d98-916a-4ec8-9f05-bdbe21e4cf73" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/GUIcalculator/Calculator.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/base_library.zip" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/base_library.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.pkg" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.pkg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.pyz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py" afterPath="$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/Calculator.spec" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/Calculator.spec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/Calculator.exe.manifest" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/Calculator.exe.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-Analysis.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-Analysis.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-EXE.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-EXE.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/warnCalculator.txt" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/warnCalculator.txt" />
     </list>
     <ignored path="py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +59,8 @@
       <file leaf-file-name="compile.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/compile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="97" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="177" />
               <folding />
             </state>
           </provider>
@@ -57,11 +69,14 @@
       <file leaf-file-name="GUIcalculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="e#71#85#0" expanded="true" />
-                <element signature="e#674#2439#0" expanded="false" />
+                <element signature="e#139#2877#0" expanded="false" />
+                <element signature="e#232#332#0" expanded="false" />
+                <element signature="e#365#400#0" expanded="false" />
+                <marker date="1473630286340" expanded="true" signature="833:1311" ph="..." />
               </folding>
             </state>
           </provider>
@@ -277,11 +292,14 @@
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\shared\central@iaacob\py\python\GUIcalculator" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Dropbox\shared\central@iaacob\py\py\Calculator1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.window1">
+  <component name="RunManager" selected="Python.GUIcalculator">
     <configuration default="false" name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,36 +317,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="cwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="GUIcalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/os" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/GUIcalculator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/os/cwd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="window1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/window1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/window1/window1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -467,16 +468,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.Calculator" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cwd" />
-      <item index="2" class="java.lang.String" itemvalue="Python.window1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GUIcalculator" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.window1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.cwd" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Calculator" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.GUIcalculator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -491,30 +490,45 @@
       <option name="presentableId" value="Default" />
       <updated>1473308383051</updated>
     </task>
+    <task id="LOCAL-00001" summary="gui calculator">
+      <created>1473553861445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1473553861445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gui calculator">
+      <created>1473613777455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1473613777455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="723" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.49707174" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13323572" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39238653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -549,7 +563,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="gui calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="gui calculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,6 +667,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/window1/window1" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -660,22 +676,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/window1/window1" />
     <entry file="file://$PROJECT_DIR$/python/compile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="97" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="177" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/GUIcalculator/Calculator.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="e#71#85#0" expanded="true" />
-            <element signature="e#674#2439#0" expanded="false" />
+            <element signature="e#139#2877#0" expanded="false" />
+            <element signature="e#232#332#0" expanded="false" />
+            <element signature="e#365#400#0" expanded="false" />
+            <marker date="1473630286340" expanded="true" signature="833:1311" ph="..." />
           </folding>
         </state>
       </provider>

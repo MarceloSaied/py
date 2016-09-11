@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['c:\\Dropbox\\shared\\central@iaacob\\py\\python\\Calculator1\\Calculator.py'],
-             pathex=['c:\\Dropbox\\shared\\central@iaacob\\py\\python\\PyInstaller-3.2\\Calculator'],
+             pathex=['C:\\Dropbox\\shared\\central@iaacob\\py\\python\\PyInstaller-3.2\\Calculator'],
              binaries=None,
              datas=None,
              hiddenimports=[],

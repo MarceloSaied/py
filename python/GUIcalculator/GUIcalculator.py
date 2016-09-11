@@ -31,7 +31,7 @@ class Adder(ttk.Frame):
         self.root.option_add('*tearOff', 'FALSE')
 
         self.grid(column=0, row=0, sticky='nsew')
-
+# ----------------------------------------------------------------------
         self.menubar = tkinter.Menu(self.root)
 
         self.menu_file = tkinter.Menu(self.menubar)
@@ -43,32 +43,32 @@ class Adder(ttk.Frame):
         self.menubar.add_cascade(menu=self.menu_edit, label='Edit')
 
         self.root.config(menu=self.menubar)
-
+#----------------------------------------------------------------------
         self.num1_entry = ttk.Entry(self, width=5)
         self.num1_entry.grid(column=1, row = 2)
 
         self.num2_entry = ttk.Entry(self, width=5)
         self.num2_entry.grid(column=3, row=2)
-
+        # -------------------------------------------------------------
         self.calc_button = ttk.Button(self, text='Calculate',
                 command=self.calculate)
         self.calc_button.grid(column=0, row=3, columnspan=4)
-
+        # -------------------------------------------------------------
         self.answer_frame = ttk.LabelFrame(self, text='Answer',
                 height=100)
         self.answer_frame.grid(column=0, row=4, columnspan=4, sticky='nesw')
 
         self.answer_label = ttk.Label(self.answer_frame, text='')
         self.answer_label.grid(column=0, row=0)
-
+        # ------------------ imputbox row -----------------------------------
         # Labels that remain constant throughout execution.
         ttk.Label(self, text='Number Adder').grid(column=0, row=0,
-                columnspan=4)
+                columnspan=5)
         ttk.Label(self, text='Number one').grid(column=0, row=2,
                 sticky='w')
         ttk.Label(self, text='Number two').grid(column=2, row=2,
                 sticky='w')
-
+        # --------------------------top separator---------------------------
         ttk.Separator(self, orient='horizontal').grid(column=0,
                 row=1, columnspan=4, sticky='ew')
 

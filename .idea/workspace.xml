@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c1a4d98-916a-4ec8-9f05-bdbe21e4cf73" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/GUIcalculator/Calculator.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/base_library.zip" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/base_library.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.pkg" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.pkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.pyz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py" afterPath="$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/Calculator.spec" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/Calculator.spec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/Calculator.exe.manifest" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/Calculator.exe.manifest" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-Analysis.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-Analysis.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-EXE.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-EXE.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PKG.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.toc" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/out00-PYZ.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/warnCalculator.txt" afterPath="$PROJECT_DIR$/python/PyInstaller-3.2/Calculator/build/Calculator/warnCalculator.txt" />
     </list>
     <ignored path="py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,11 +57,10 @@
       <file leaf-file-name="GUIcalculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="765">
+              <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
               <folding>
                 <element signature="e#71#85#0" expanded="true" />
-                <element signature="e#139#2877#0" expanded="false" />
                 <element signature="e#232#332#0" expanded="false" />
                 <element signature="e#365#400#0" expanded="false" />
                 <marker date="1473630286340" expanded="true" signature="833:1311" ph="..." />
@@ -504,14 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1473613777455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gui calculator">
+      <created>1473630531221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473630531221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="723" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="723" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.49707174" order="8" side_tool="false" content_ui="tabs" />
@@ -691,11 +685,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/GUIcalculator/GUIcalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="765">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
           <folding>
             <element signature="e#71#85#0" expanded="true" />
-            <element signature="e#139#2877#0" expanded="false" />
             <element signature="e#232#332#0" expanded="false" />
             <element signature="e#365#400#0" expanded="false" />
             <marker date="1473630286340" expanded="true" signature="833:1311" ph="..." />

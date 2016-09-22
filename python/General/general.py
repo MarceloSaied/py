@@ -34,3 +34,13 @@ if (var == 100): print("Value of expression is 100")
 print("Good bye!")
 
 
+
+#------------------------
+range(5)
+range(0, 5)
+list(range(5))
+
+for var in list(range(5)):
+	print (var)
+
+#------------------------------------
